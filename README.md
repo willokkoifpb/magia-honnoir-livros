@@ -43,7 +43,7 @@ Abra um terminal na raiz do projeto e execute:
 python -m http.server 8000
 ```
 
-Então abra `http://localhost:8000/biblioteca.html` no navegador.
+Então abra `http://localhost:8000/index.html` no navegador.
 
 **Observações**
 - Certifique-se de que `books/books.json` aponta para os caminhos corretos dentro da pasta `books/`.
