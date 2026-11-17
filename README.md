@@ -2,6 +2,10 @@
 
 Este repositório contém uma pequena biblioteca estática que exibe livros em formato `.txt` ou `.md`.
 
+O catálogo reúne dez livros, com busca por título, assunto e autoria e filtro por matéria. As leituras cobrem História, Defesa Pessoal, Criaturas Fantásticas, Clima, Magitecnologia, Psiquê, Botânica e Cartografia das Linhas Ley. Os sete volumes novos usam capítulos e parágrafos extensos; os três livros anteriores foram preservados.
+
+O campo opcional `subject` informa a matéria e `author` informa a autoria. Ambos aparecem no catálogo e podem ser usados na busca. Conteúdos de mestre devem permanecer fora deste repositório público: arquivos não listados no catálogo continuam acessíveis se estiverem publicados. O fluxo de Pages publica somente `index.html`, `script.js`, `style.css` e `books/`.
+
 **Como funciona**
 - **Fonte dos livros**: os arquivos de livro devem ser adicionados diretamente na pasta `books/` no repositório (cada livro fica em `books/<id>/`).
 - **Manifesto**: o arquivo `books/books.json` lista os livros disponíveis. Cada entrada deve conter `id`, `title`, `subtitle` e `filename` (caminho relativo dentro de `books/`).

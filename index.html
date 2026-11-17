@@ -9,14 +9,24 @@
 <body>
     <main id="app">
         <section id="library-screen" class="screen">
+            <div class="library-heading">Academia de Magia de Honnoir</div>
             <h1>Biblioteca</h1>
+            <p class="library-intro">Tratados, estudos e leituras para acompanhar sua formação mágica.</p>
+            <div class="catalog-controls">
+                <label for="book-search">Buscar no catálogo
+                    <input id="book-search" type="search" placeholder="Título, assunto ou autoria">
+                </label>
+                <label for="subject-filter">Matéria
+                    <select id="subject-filter"><option value="">Todas as matérias</option></select>
+                </label>
+            </div>
+            <div id="catalog-status" class="catalog-status" role="status" aria-live="polite"></div>
             <div id="book-list" class="book-list">Carregando...</div>
-            <!-- Upload removido: adicione livros diretamente em books/ no repositório -->
         </section>
 
         <section id="reader-screen" class="screen hidden">
             <button id="back">← Voltar à Biblioteca</button>
-            <article id="book-view" class="book-view"></article>
+            <article id="book-view" class="book-view" aria-live="polite"></article>
         </section>
     </main>
 

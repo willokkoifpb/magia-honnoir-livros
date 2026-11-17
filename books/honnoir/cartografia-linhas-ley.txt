@@ -1,0 +1,61 @@
+## Apresentação
+
+A Cartografia das Linhas Ley reúne observação do território, estudo de conexões e descrição das condições de passagem. Foi organizada como disciplina introdutória para estudantes que precisam circular pelo Fantástico sem confundir familiaridade com segurança. Este livro utiliza Cavendish como campo de exemplos e distingue mapas de percurso, mapas de conexão e registros de acesso. Nenhum deles substitui a verificação das condições atuais de uma viagem.
+
+Capítulo I — O Mapa Não É o Lugar
+
+Todo mapa seleciona informações. Uma representação pode mostrar com clareza como chegar a uma estação e omitir relevo, distância ou edifícios próximos. Essa seleção não a torna falsa; define a tarefa para a qual foi preparada. O estudante deve perguntar primeiro o que o desenho pretende comunicar. Utilizar um esquema de conexões para estimar tempo de caminhada é um erro de leitura, ainda que todas as ligações representadas estejam corretas.
+
+O mapa do Metrô de Cavendish é especialmente útil para esse estudo. Destinos numerados, trajetos e encontros de linhas organizam a circulação de maneira legível, mas a distância entre símbolos não precisa corresponder à distância física entre lugares. Uma curva pode existir para separar graficamente dois percursos. Antes de planejar uma saída, é necessário combinar o esquema com informações sobre funcionamento, acessos e condições de passagem.
+
+✵
+
+Capítulo II — Lugar, Conexão e Acesso
+
+Um lugar pode existir e continuar inacessível pelo percurso escolhido. Uma conexão pode estar prevista num registro e permanecer suspensa. Um terminal pode funcionar sem permitir passagem a todos os destinos. Essas diferenças parecem evidentes quando apresentadas separadamente, mas desaparecem com frequência na fala cotidiana. A expressão “há caminho” pode designar uma possibilidade física, uma ligação arcana ou uma autorização administrativa, e cada sentido exige verificação própria. O registro cartográfico deve distinguir essas condições sem comprimi-las num único traço. Quando não há informação suficiente, a incerteza precisa aparecer na legenda ou nas notas. Uma linha desenhada com precisão não produz conhecimento que o autor não possui. A honestidade do mapa inclui reconhecer onde termina a observação e começa uma hipótese baseada em relatos.
+
+Capítulo III — Ler Cavendish
+
+O estudo regional começa pela identificação de destinos e suas funções conhecidas: a Antiga Estação de Arcturus, a Floresta de Camurça, a Estação de Arcturus, o Mercado de Giz e Prata, a Torre dos Escribas e os Moinhos de Romnomnom. A enumeração não estabelece ordem obrigatória de visita. Permite reconhecer referências que reaparecem em relatos de deslocamento e compreender que diferentes viajantes procuram serviços e caminhos distintos.
+
+Completam esse conjunto a Vila das Costureiras, o Centro de Pesquisas Mágicas, o Bosque de Mandrágoras, os solares da Baixa e da Alta Cavendish, a Vila das Herbalistas e o Planetário de Giz. O cartógrafo deve conservar os nomes locais e registrar variantes quando existirem, evitando corrigir a fala dos moradores apenas para uniformizar o desenho. Uma denominação pode indicar história, ofício ou uso que o visitante ainda não compreendeu. O mapa também serve para aproximar essas formas de conhecimento.
+
+✵
+
+Capítulo IV — O Terminal de Honnoir
+
+O Terminal da Linha de Ley participa da relação entre a escola e o território que a cerca. Ele não deve ser tratado como uma porta comum cujo outro lado permanece necessariamente disponível. Identificar o destino, conhecer a condição de operação e respeitar orientações dos responsáveis integram o planejamento. Um estudante não deve deduzir o funcionamento de uma passagem a partir de outra que utilizou em ocasião diferente.
+
+Os primeiros exercícios são realizados sem travessia. A turma descreve sinalização, áreas de espera, caminhos de entrada e saída e pontos em que um viajante poderia se confundir. A atividade ensina que boa cartografia também depende de como o lugar comunica suas regras. Um mapa correto pode ser insuficiente quando o viajante não consegue reconhecer, no ambiente, as referências que ele apresenta.
+
+Capítulo V — Registrar uma Viagem
+
+Um diário de percurso deve permitir que outra pessoa compreenda o que foi observado. Origem, destino, momento da partida, mudanças de direção e condições relevantes precisam ser distinguidos de impressões pessoais. A frase “depois da árvore estranha” talvez pareça suficiente ao autor e não permita identificação alguma a quem percorre uma floresta inteira. Referências devem ser descritas por características reconhecíveis e, quando possível, relacionadas entre si.
+
+O relato também precisa indicar sua data e seus limites. Uma passagem aberta numa estação pode estar obstruída em outra; uma referência móvel não deve receber o mesmo valor de uma construção estável. Informações fornecidas por terceiros podem ser incluídas desde que sua origem seja registrada. O diário não perde valor por conter incertezas. Perde quando apresenta inferências como se fossem observações diretas.
+
+✵
+
+Capítulo VI — O Ambiente Modifica a Leitura
+
+Bruma, ruído, escuridão e alterações no terreno podem tornar irreconhecível um percurso familiar. A resposta adequada não é necessariamente avançar até encontrar um sinal conhecido. O grupo precisa reconhecer sua última referência confiável e avaliar o que mudou. Continuar por hábito pode ampliar o afastamento entre a posição real e a posição imaginada.
+
+A colaboração com a Cátedra de Clima permite estudar como condições atmosféricas alteram a visibilidade de um caminho sem alterar sua estrutura. A colaboração com Psiquê examina expectativas que levam o observador a reconhecer uma referência antes de verificá-la. Nenhuma disciplina fornece uma explicação universal para desorientação. A utilidade da formação conjunta está em ampliar as perguntas disponíveis antes de escolher uma resposta.
+
+Capítulo VII — Caminhos Compartilhados
+
+Uma rota atravessa lugares utilizados por outras pessoas e criaturas. O fato de um grupo conseguir passar não demonstra que sua passagem seja apropriada em qualquer quantidade ou frequência. Ruído, coleta de materiais e abertura de atalhos podem alterar um ambiente. O planejamento deve considerar a presença de comunidades e os cuidados solicitados por quem conhece o lugar.
+
+Também é necessário reconhecer que publicar um caminho pode modificar aquilo que se descreve. Uma área de reprodução, um abrigo ou uma nascente sensível pode ser prejudicada pela visitação. O cartógrafo precisa distinguir informação de interesse geral de detalhes cuja circulação exige responsabilidade. A existência de um registro não cria, por si só, o direito de expor tudo o que ele contém.
+
+✵
+
+Capítulo VIII — Um Mapa Pode Ser Corrigido
+
+Os estudantes costumam desejar uma versão final sem rasuras. A prática cartográfica depende de revisão. Novas observações podem indicar que uma ligação foi interpretada incorretamente, que uma referência mudou ou que dois relatos descreviam lugares diferentes. Corrigir essas informações não apaga o trabalho anterior; permite compreender como a representação foi construída e por que precisou mudar.
+
+No exercício de encerramento, cada grupo entrega seu mapa a outra equipe, que o utiliza numa área supervisionada da escola. As dúvidas são registradas antes da conversa com os autores. O resultado costuma revelar que uma informação evidente para quem desenhou não estava realmente comunicada. A avaliação considera a revisão feita depois desse encontro. Um bom mapa não é aquele que demonstra quanto seu autor conhece, mas aquele que ajuda outra pessoa a reconhecer o que precisa saber.
+
+## Considerações finais
+
+Atravessar o Fantástico exige mais do que descobrir uma direção. Exige compreender a diferença entre aquilo que um mapa representa, aquilo que foi observado e aquilo que está disponível no momento da viagem. O território não se torna imóvel porque foi desenhado. O estudante deve aprender a levar consigo tanto uma representação útil quanto a disposição de verificar quando o lugar começa a contar uma história diferente.

@@ -3,19 +3,77 @@
     "id": "honnoir",
     "title": "História da Magia de Honnoir",
     "subtitle": "As Origens e Conflitos do Etmos",
-    "filename": "honnoir/historia-da-magia-de-honnoir.txt"
+    "filename": "honnoir/historia-da-magia-de-honnoir.txt",
+    "subject": "História"
   },
   {
     "id": "defesa-pessoal-postura",
     "title": "Defesa Pessoal",
     "subtitle": "Fundamentos do Combate Mágico",
-    "filename": "honnoir/defesa-pessoal-postura"
-  }
-  ,
+    "filename": "honnoir/defesa-pessoal-postura",
+    "subject": "Defesa Pessoal"
+  },
   {
     "id": "cuidado-criacao-animais-fantasticos",
     "title": "Cuidado na Criação de Animais Fantásticos",
     "subtitle": "Fundamentos de Manejo, Comportamento e Segurança Arcana",
-    "filename": "honnoir/Cuidado-na-criacao-de-animais-fantasticos.txt"
+    "filename": "honnoir/Cuidado-na-criacao-de-animais-fantasticos.txt",
+    "subject": "Criaturas Fantásticas"
+  },
+  {
+    "id": "climatologia-arcana",
+    "title": "Climatologia Arcana",
+    "subtitle": "Atmosfera, território e circulação mágica",
+    "filename": "honnoir/climatologia-arcana.txt",
+    "subject": "Clima",
+    "author": "Cátedra de Clima de Honnoir"
+  },
+  {
+    "id": "magitecnologia",
+    "title": "Magitecnologia",
+    "subtitle": "Dispositivos, linguagem e responsabilidade",
+    "filename": "honnoir/magitecnologia.txt",
+    "subject": "Magitecnologia",
+    "author": "Cátedra de Magitecnologia de Honnoir"
+  },
+  {
+    "id": "psique-arcana",
+    "title": "Psiquê Arcana de Honnoir",
+    "subtitle": "Consciência, percepção e autonomia",
+    "filename": "honnoir/psique-arcana.txt",
+    "subject": "Psiquê",
+    "author": "Departamento de Psiquê de Honnoir"
+  },
+  {
+    "id": "botanica-arcana",
+    "title": "Botânica Arcana de Honnoir",
+    "subtitle": "Cultivo, relações e flora fantástica",
+    "filename": "honnoir/botanica-arcana.txt",
+    "subject": "Botânica",
+    "author": "Professora Mandrágora"
+  },
+  {
+    "id": "historia-cavendish",
+    "title": "História da Magia — Volume II",
+    "subtitle": "Instituições, ofícios e caminhos de Cavendish",
+    "filename": "honnoir/historia-cavendish.txt",
+    "subject": "História",
+    "author": "Estudos Históricos de Honnoir"
+  },
+  {
+    "id": "defesa-pessoal-cooperacao",
+    "title": "Defesa Pessoal — Volume II",
+    "subtitle": "Postura, espaço e cooperação",
+    "filename": "honnoir/defesa-pessoal-cooperacao.txt",
+    "subject": "Defesa Pessoal",
+    "author": "Professora Marie Claire"
+  },
+  {
+    "id": "cartografia-linhas-ley",
+    "title": "Cartografia das Linhas Ley",
+    "subtitle": "Percursos, conexões e viagens em Cavendish",
+    "filename": "honnoir/cartografia-linhas-ley.txt",
+    "subject": "Cartografia",
+    "author": "Coleção de Estudos do Território"
   }
 ]

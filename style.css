@@ -18,9 +18,21 @@ body {
 
 #library-screen h1 { text-align: center; color: #632323; margin-top: 6px; }
 .book-list { display: grid; grid-template-columns: repeat(auto-fit,minmax(220px,1fr)); gap: 12px; margin-top: 18px; }
-.book-card { background: #fff7ef; border: 1px solid #e6dccf; padding: 12px; border-radius: 6px; cursor: pointer; }
-.book-card h3 { margin: 0 0 6px 0; color: #632323; font-size: 14pt; }
+.book-card { background: #fff7ef; color: #2b231d; border: 1px solid #e6dccf; padding: 18px; border-radius: 6px; cursor: pointer; text-align: left; font: inherit; display: flex; flex-direction: column; gap: 8px; }
+.book-title { color: #632323; font-size: 14pt; line-height: 1.3; }
 .book-card .meta { font-size: 0.9rem; color: #5c4e40; }
+.book-card:hover { border-color: #9b7661; background: #fffaf4; }
+.book-card:focus-visible, input:focus-visible, select:focus-visible, button:focus-visible { outline: 3px solid #936b33; outline-offset: 3px; }
+.library-heading { text-align: center; font-size: 0.8rem; letter-spacing: 0.14em; text-transform: uppercase; color: #756044; margin-top: 25px; }
+.library-intro { text-align: center; text-indent: 0; color: #5c4e40; }
+.catalog-controls { display: grid; grid-template-columns: 1.5fr 1fr; gap: 16px; margin: 28px 0 10px; }
+.catalog-controls label { font-size: 0.9rem; color: #5c4e40; }
+.catalog-controls input, .catalog-controls select { width: 100%; display: block; margin-top: 6px; border: 1px solid #d4c5b0; background: #fffaf4; color: #2b231d; padding: 11px; border-radius: 4px; font: inherit; min-height: 44px; }
+.catalog-status { color: #756044; font-size: 0.85rem; min-height: 1.5em; }
+.book-subject { color: #806748; text-transform: uppercase; font-size: 0.68rem; letter-spacing: 0.09em; }
+.book-author { color: #756044; font-size: 0.8rem; }
+.read-label { color: #632323; font-size: 0.8rem; padding-top: 12px; margin-top: auto; }
+.catalog-empty { grid-column: 1 / -1; text-indent: 0; }
 .controls { margin-top: 14px; display:flex; gap:8px; align-items:center; }
 .upload-label { background:#ffffff; border:1px dashed #d4c5b0; padding:6px 10px; border-radius:4px; cursor:pointer; }
 .upload-label input { display:none; }
@@ -33,9 +45,13 @@ button#back { background:transparent; color:#632323; border:1px solid #d4c5b0; m
 .title-page { text-align: center; padding-top: 40px; margin-bottom: 12px; }
 .title-page h1 { font-size: 28pt; margin: 0 0 8px 0; font-weight: normal; color:#632323; letter-spacing:1px; font-variant: small-caps; }
 .title-page .subtitle { font-size:14pt; font-style:italic; color:#5c4e40; }
+.title-author { color: #756044; margin: 16px 0 28px; }
 
 h2 { font-size:15pt; color:#632323; text-align:center; font-weight:normal; margin-top:28px; margin-bottom:18px; text-transform:uppercase; letter-spacing:1.5px; border-bottom:1px solid #d4c5b0; padding-bottom:10px; }
 p { text-align:justify; margin-bottom:12px; text-indent:18px; }
+.book-view p { font-size: 1.05rem; line-height: 1.85; hyphens: auto; overflow-wrap: break-word; }
+.chapter-opening { text-indent: 0; }
+.chapter-opening::first-letter { float: left; font-size: 3.2em; line-height: 0.85; margin-right: 6px; margin-top: 7px; color: #632323; }
 h2 + p, .epigraph + p, .ornament + p { text-indent:0; }
 .epigraph { font-style:italic; text-align:center; margin:5px 30px 25px 30px; font-size:9.5pt; color:#5c4e40; }
 .dropcap { float:left; font-size:3.2em; line-height:0.8; margin-right:6px; margin-top:4px; color:#632323; }
@@ -43,6 +59,10 @@ h2 + p, .epigraph + p, .ornament + p { text-indent:0; }
 
 /* Responsividade */
 @media (max-width:480px) {
+    body { padding: 16px; }
+    .catalog-controls { grid-template-columns: 1fr; gap: 12px; }
+    .book-view { padding: 12px 15px; }
+    .book-view p { text-align: left; }
     .title-page h1 { font-size: 20pt; }
     .book-list { grid-template-columns: 1fr; }
 }
@@ -50,4 +70,8 @@ h2 + p, .epigraph + p, .ornament + p { text-indent:0; }
 /* Impressão */
 @media print {
     body { background-color: transparent; max-width: none; }
+    #back, .catalog-controls, .catalog-status { display: none; }
+    .book-view { border: none; padding: 0; }
+    h2, h3 { break-after: avoid; }
+    .book-view p { orphans: 3; widows: 3; }
 }
